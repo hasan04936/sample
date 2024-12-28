@@ -1,0 +1,5 @@
+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
+
+curl -u "username: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" https://github.com/hasan04936/sample.git
+
+git remote set-url Github https://github.com/hasan04936/sample.git
